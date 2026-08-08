@@ -25,27 +25,3 @@ I am a 16-year-old Full-Stack Software Developer and 11th-grade student with a d
 * 🌐 **Frontend Development:** Responsive web application layout design, interactive JavaScript UIs, and modern Bootstrap styling.
 * ⚙️ **Backend Engineering:** Building high-performance RESTful APIs with Python and FastAPI.
 * 🖥️ **System Automation:** Deploying persistent background services and managing custom server environments using NSSM.
-
-* ---
-
-### 📊 GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman-devstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul Rehman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-devstack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<!-- Profile Visitor Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=abdulrehman-devstack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
