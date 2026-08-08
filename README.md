@@ -25,3 +25,17 @@ I am a 16-year-old Full-Stack Software Developer and 11th-grade student with a d
 * 🌐 **Frontend Development:** Responsive web application layout design, interactive JavaScript UIs, and modern Bootstrap styling.
 * ⚙️ **Backend Engineering:** Building high-performance RESTful APIs with Python and FastAPI.
 * 🖥️ **System Automation:** Deploying persistent background services and managing custom server environments using NSSM.
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <!-- WhatsApp Badge -->
+  <a href="https://wa.me/923056780200" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
+  <!-- Instagram Badge -->
+  <a href="https://instagram.com/abdulrehman.devstack" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
